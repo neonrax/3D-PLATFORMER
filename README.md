@@ -1,6 +1,6 @@
 # JUMP-JUMP-JUMP
 
-3D Platformer game using unity
+3D Platformer game made with unity
 
 Thanks to coding in flow
 
